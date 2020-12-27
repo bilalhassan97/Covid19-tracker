@@ -1,4 +1,4 @@
-# Corono Virus Tracker
+# Corona Virus Tracker
 
 ## Introduction
 
